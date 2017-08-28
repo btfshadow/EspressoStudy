@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/49c03871c7ff8bd9bfac09cfe7c8cabd27f98596/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/classes_f6eec045099bdbf08762dfebd563f80e76a8f27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/526aeef519722dd737434f8ef13a4cc8938ae78c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_36f423b40731fde19dd0589b8be071ad76aa3bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/6b5fe32309df3b314c15fa5a1fddb55d799ad9bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_2a809c66510125286ecbbe94f28056475814f4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/84f10d2f17cdf736b50396bde89baf77fca904be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/classes_a598b6a83e060af82018adedf393882e723aa76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/36ff87a6b69457f77b28f2771cad943e3319d091/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_6deaa048d03d63c402ae9f1738a69f1a83c83d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_4829060743a3b3fc3c52605bf4af55614b842d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/d5c9f410ae3b534a75e8b5cd0fe2f887cc7ff609/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_592a00c7933e5916ad03d6c6d1d15753ff6456a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_9f51149aabded5a9045e10ed8d6f2aa214ac182a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/fe7265f7d23ee2f30cdd4109bc51aac6817053c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/classes_ad9effb286a1449e2720757bf55f8c0044cd4762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/cd562a37958da7769dbed7ac9403bf5e423457cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_7f2b3bca3d7b5241f350f3cd4ab4bd5f4ddc6a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/annotations-13.0_0e8d78bc47cb8c43f6c330afaf969363f0e64b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/c32dfb68f8020485a7408c0b672700393b6ffe1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_1aeb278807d3af572b2c7b2bc00cd620de639662.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/4a44fe6f39abb6ae809ab619670c9c2e07446fff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9474011057e9dbe616eec7bdf8ec27606a73b9e7">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_fc9817ffa76a58e6ae5eb49de93bf48031d647f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_9ffc476a9bac9da0b1ba92978475ccbf32724c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_a5272aeeaf4763c41bc52b08d09bc5d38b7f7284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/57da68c4a4dc2622f9a3c3fadc9c8ac484ae90a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_203bd6216c9b99a680605f7370842a175d0645ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/9d05900ecebbc58c305d776d2bb81a8875ceeb58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/classes_3e29c55e0663b83f019c5a4f197b9e0a87276c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/451c77d22389d900693797bfb31fbaa6f62cfae2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb305d2ec1f85a4122c5e9d0412c87e20dac20f8">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_5d47fc502420d1958b76a02c78dbed81aa55919c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3-2/9b44c139a4ec57031e0c84ba0e49ba16df6d801c/kotlin-stdlib-1.1.3-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b44c139a4ec57031e0c84ba0e49ba16df6d801c">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.3-2_e451e0e9d31988f8bf3f035595d02d9ab0fa83dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_796ec12ef295651afb7e8691c97fc3f947ad8ab5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.1/99895d4dc6d79efbb74360f13c556d95533ad8f8/rxjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99895d4dc6d79efbb74360f13c556d95533ad8f8">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/rxjava-2.1.1_010e9064ca250e8f14a4b3d17da623fd151d951d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_acd0e57a43e50f6e0e5663628599b912517cb1d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/b49d5a5edbf24ce8ece6864f4f04c5432d32eb20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_a8a2cc855cd2c9237d5726e4997b45a08bee418d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/4c4aa36dec8fb287ad281c7cd8fa339db5e2e2bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_422a3ebd1448b26312305b4d625ea15a2b770ef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_735e63340a2a8df1918347b9d88e6c051a8c2b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_a4f6d8e53fbe052b0a7150e9e3ee02fab2e475e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/e1ddbbf832321fb652a806fc1961392cbfe6c24f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/classes_73791d9d08d603ff08581c7a9395f3a564691714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/d8c3f878b8758849d7cac0b96cbaeae1270a228a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_feb7dbb291d61b04f4444aaf92794a82ad0f6909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/04111719c452e4ca4d4b25a4299e9f5e5ff78607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_c37286fc1bddef93b895ec3433d9eb4a2b096bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.3/eb3399988a52099b0127e27fb5bed666eca86ace/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_52734afe727ea425515562c224ae636bcadfcd77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.android/build-cache/0ac5c4da73c5f9948ed8ddeab8e4a7300a31630d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/debug/classes_cef4ade25aaeeaddc0d8f2401239abbb97776500.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_4fb33671d243451414e4bf2cf3078faae3c8dae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thiagogoncalves/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/thiagogoncalves/Documents/MobileTeste/Kotlin-Espresso-sample/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_974a3aa82e7d995da32766cc2624dba4e7925148.jar" />
+    </item>
+
+</items>

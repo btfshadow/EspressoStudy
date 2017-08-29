@@ -22,53 +22,44 @@ class ApplicationTest {
 
     @Test
     fun testAdd() {
-        onView(withId(R.id.button_1)).perform(click())
-        onView(withId(R.id.button_2)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_add)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_2)).perform(click())
-        onView(withId(R.id.button_1)).perform(click())
-        onView(withId(R.id.button_calc)).perform(click())
-        onView(withId(R.id.field)).check(matches(withText("${123 + 321}")))
+        var valor1 = 123
+        var valor2 = 321
+        var resultado = "20,000"
+        CalcRobots().ButtonRobots(valor1.toString()+"+"+valor2.toString()+"=").validRobots("${valor1 + valor2}")
     }
 
     @Test
     fun testSub() {
-        onView(withId(R.id.button_9)).perform(click())
-        onView(withId(R.id.button_9)).perform(click())
-        onView(withId(R.id.button_9)).perform(click())
-        onView(withId(R.id.button_sub)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_calc)).perform(click())
-        onView(withId(R.id.field)).check(matches(withText("${999 - 333}")))
+        var valor1 = 999
+        var valor2 = 333
+        var resultado = "20,000"
+        CalcRobots().ButtonRobots(valor1.toString()+"-"+valor2.toString()+"=").validRobots("${valor1 - valor2}")
     }
 
     @Test
     fun testMulti() {
-        onView(withId(R.id.button_1)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_multi)).perform(click())
-        onView(withId(R.id.button_2)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_calc)).perform(click())
-        onView(withId(R.id.field)).check(matches(withText("${"20,000"}")))
+        var valor1 = 100
+        var valor2 = 200
+        var resultado = "20,000"
+//        onView(withId(R.id.button_1)).perform(click())
+//        onView(withId(R.id.button_0)).perform(click())
+//        onView(withId(R.id.button_0)).perform(click())
+//        onView(withId(R.id.button_multi)).perform(click())
+//        onView(withId(R.id.button_2)).perform(click())
+//        onView(withId(R.id.button_0)).perform(click())
+//        onView(withId(R.id.button_0)).perform(click())
+//        onView(withId(R.id.button_calc)).perform(click())
+//        onView(withId(R.id.field)).check(matches(withText("${"20,000"}")))
+        CalcRobots().ButtonRobots(valor1.toString()+"/"+valor2.toString()+"=").validRobots(resultado)
     }
 
     @Test
     fun testDiv() {
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_3)).perform(click())
-        onView(withId(R.id.button_divide)).perform(click())
-        onView(withId(R.id.button_1)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_0)).perform(click())
-        onView(withId(R.id.button_calc)).perform(click())
-        onView(withId(R.id.field)).check(matches(withText("${333 / 100.0}")))
+        var valor1 = 333
+        var valor2 = 100
+        var resultado = "3.33"
+
+        CalcRobots().ButtonRobots(valor1.toString()+"/"+valor2.toString()+"=").validRobots("${valor1 / valor2.toFloat()}")
+
     }
 }

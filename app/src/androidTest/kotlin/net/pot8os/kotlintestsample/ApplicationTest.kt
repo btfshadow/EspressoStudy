@@ -50,7 +50,7 @@ class ApplicationTest {
 //        onView(withId(R.id.button_0)).perform(click())
 //        onView(withId(R.id.button_calc)).perform(click())
 //        onView(withId(R.id.field)).check(matches(withText("${"20,000"}")))
-        CalcRobots().ButtonRobots(valor1.toString()+"/"+valor2.toString()+"=").validRobots(resultado)
+        CalcRobots().ButtonRobots(valor1.toString()+"*"+valor2.toString()+"=").validRobots(resultado)
     }
 
     @Test
